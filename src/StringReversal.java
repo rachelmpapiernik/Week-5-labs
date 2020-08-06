@@ -1,9 +1,12 @@
+/*August 5, Rachel Papiernik
+This program reads an input string and reverses it in the output
+*/
+
 import java.util.Scanner;
 
 public class StringReversal {
 
 	//driver program
-
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
